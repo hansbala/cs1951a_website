@@ -1,0 +1,515 @@
+{
+    "data": {
+        "product": {
+            "id": "51b5580c-14e7-41d1-92a1-74e3768b81bb",
+            "title": "AMD Radeon RX 6700 XT Graphics Card 12G",
+            "productCategory": "collectibles",
+            "salesChart": {
+                "series": [
+                    {
+                        "xValue": "2021-03-18T20:15:35.000Z",
+                        "yValue": 1025,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-03-22T07:34:15.540Z",
+                        "yValue": 856,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-03-25T18:52:56.080Z",
+                        "yValue": 851,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-03-29T06:11:36.620Z",
+                        "yValue": 844,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-01T17:30:17.160Z",
+                        "yValue": 832,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-05T04:48:57.700Z",
+                        "yValue": 869,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-08T16:07:38.240Z",
+                        "yValue": 883,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-12T03:26:18.780Z",
+                        "yValue": 866,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-15T14:44:59.320Z",
+                        "yValue": 852,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-19T02:03:39.860Z",
+                        "yValue": 904,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-22T13:22:20.400Z",
+                        "yValue": 893,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-26T00:41:00.940Z",
+                        "yValue": 831,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-04-29T11:59:41.480Z",
+                        "yValue": 841,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-02T23:18:22.020Z",
+                        "yValue": 846,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-06T10:37:02.560Z",
+                        "yValue": 887,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-09T21:55:43.100Z",
+                        "yValue": 953,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-13T09:14:23.640Z",
+                        "yValue": 1009,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-16T20:33:04.180Z",
+                        "yValue": 965,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-20T07:51:44.720Z",
+                        "yValue": 983,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-23T19:10:25.260Z",
+                        "yValue": 954,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-27T06:29:05.800Z",
+                        "yValue": 888,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-05-30T17:47:46.340Z",
+                        "yValue": 922,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-03T05:06:26.880Z",
+                        "yValue": 811,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-06T16:25:07.420Z",
+                        "yValue": 818,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-10T03:43:47.960Z",
+                        "yValue": 786,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-13T15:02:28.500Z",
+                        "yValue": 801,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-17T02:21:09.040Z",
+                        "yValue": 785,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-20T13:39:49.580Z",
+                        "yValue": 731,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-24T00:58:30.120Z",
+                        "yValue": 711,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-27T12:17:10.660Z",
+                        "yValue": 684,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-06-30T23:35:51.200Z",
+                        "yValue": 644,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-04T10:54:31.740Z",
+                        "yValue": 642,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-07T22:13:12.280Z",
+                        "yValue": 654,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-11T09:31:52.820Z",
+                        "yValue": 665,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-14T20:50:33.360Z",
+                        "yValue": 670,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-18T08:09:13.900Z",
+                        "yValue": 668,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-21T19:27:54.440Z",
+                        "yValue": 668,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-25T06:46:34.980Z",
+                        "yValue": 698,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-07-28T18:05:15.520Z",
+                        "yValue": 696,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-01T05:23:56.060Z",
+                        "yValue": 679,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-04T16:42:36.600Z",
+                        "yValue": 681,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-08T04:01:17.140Z",
+                        "yValue": 692,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-11T15:19:57.680Z",
+                        "yValue": 703,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-15T02:38:38.220Z",
+                        "yValue": 712,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-18T13:57:18.760Z",
+                        "yValue": 728,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-22T01:15:59.300Z",
+                        "yValue": 730,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-25T12:34:39.840Z",
+                        "yValue": 715,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-08-28T23:53:20.380Z",
+                        "yValue": 717,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-01T11:12:00.920Z",
+                        "yValue": 733,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-04T22:30:41.460Z",
+                        "yValue": 769,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-08T09:49:22.000Z",
+                        "yValue": 768,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-11T21:08:02.540Z",
+                        "yValue": 749,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-15T08:26:43.080Z",
+                        "yValue": 762,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-18T19:45:23.620Z",
+                        "yValue": 768,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-22T07:04:04.160Z",
+                        "yValue": 747,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-25T18:22:44.700Z",
+                        "yValue": 748,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-09-29T05:41:25.240Z",
+                        "yValue": 746,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-02T17:00:05.780Z",
+                        "yValue": 737,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-06T04:18:46.320Z",
+                        "yValue": 737,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-09T15:37:26.860Z",
+                        "yValue": 734,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-13T02:56:07.400Z",
+                        "yValue": 744,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-16T14:14:47.940Z",
+                        "yValue": 787,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-20T01:33:28.480Z",
+                        "yValue": 801,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-23T12:52:09.020Z",
+                        "yValue": 787,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-27T00:10:49.560Z",
+                        "yValue": 785,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-10-30T11:29:30.100Z",
+                        "yValue": 802,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-02T22:48:10.640Z",
+                        "yValue": 811,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-06T10:06:51.180Z",
+                        "yValue": 839,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-09T21:25:31.720Z",
+                        "yValue": 865,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-13T08:44:12.260Z",
+                        "yValue": 852,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-16T20:02:52.800Z",
+                        "yValue": 821,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-20T07:21:33.340Z",
+                        "yValue": 819,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-23T18:40:13.880Z",
+                        "yValue": 850,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-27T05:58:54.420Z",
+                        "yValue": 844,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-11-30T17:17:34.960Z",
+                        "yValue": 875,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-04T04:36:15.500Z",
+                        "yValue": 829,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-07T15:54:56.040Z",
+                        "yValue": 819,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-11T03:13:36.580Z",
+                        "yValue": 792,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-14T14:32:17.120Z",
+                        "yValue": 795,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-18T01:50:57.660Z",
+                        "yValue": 792,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-21T13:09:38.200Z",
+                        "yValue": 784,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-25T00:28:18.740Z",
+                        "yValue": 795,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-28T11:46:59.280Z",
+                        "yValue": 801,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2021-12-31T23:05:39.820Z",
+                        "yValue": 775,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-04T10:24:20.360Z",
+                        "yValue": 773,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-07T21:43:00.900Z",
+                        "yValue": 754,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-11T09:01:41.440Z",
+                        "yValue": 730,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-14T20:20:21.980Z",
+                        "yValue": 767,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-18T07:39:02.520Z",
+                        "yValue": 759,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-21T18:57:43.060Z",
+                        "yValue": 778,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-25T06:16:23.600Z",
+                        "yValue": 750,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-01-28T17:35:04.140Z",
+                        "yValue": 712,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-01T04:53:44.680Z",
+                        "yValue": 717,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-04T16:12:25.220Z",
+                        "yValue": 714,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-08T03:31:05.760Z",
+                        "yValue": 709,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-11T14:49:46.300Z",
+                        "yValue": 739,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-15T02:08:26.840Z",
+                        "yValue": 719,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-18T13:27:07.380Z",
+                        "yValue": 691,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-22T00:45:47.920Z",
+                        "yValue": 677,
+                        "__typename": "SalesChartPoint"
+                    },
+                    {
+                        "xValue": "2022-02-25T12:04:28.460Z",
+                        "yValue": 689,
+                        "__typename": "SalesChartPoint"
+                    }
+                ],
+                "__typename": "SalesChart"
+            },
+            "__typename": "Product"
+        }
+    }
+}
