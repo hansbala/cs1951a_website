@@ -132,6 +132,7 @@ async function updateGraphs() {
 $(".dropdown-item").click(function () {
   currentGpu = $(this).text();
   currentGpu = currentGpu.toLowerCase();
+  $("#dropdownMenuButton1").text(currentGpu);
   updateGraphs();
 });
 
